@@ -26,7 +26,7 @@
         <mysql.version>6.0.5</mysql.version>
         <jackson.version>2.8.6</jackson.version>
         <scala.compat.version>2.11</scala.compat.version>
-        <junit-version>4.12</junit-version>
+        <junit-version>4.13.1</junit-version>
         <!--  其他   -->
         <json.version>1.2.8</json.version>
         <typesafe-config.version>1.3.1</typesafe-config.version>
